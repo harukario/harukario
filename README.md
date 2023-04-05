@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola! 👋 
+#### Que bueno que estés acá 
 
-<!--
-**harukario/harukario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Valentina Illanes y también programadora en proceso :)
+Estudio tecnicatura Universitaria en Programación en la UTN, y además hago algunos cursos de Frontend.
 
-Here are some ideas to get you started:
+- 🌱 Tengo conocimientos sobre HTML + CSS, Javascript, React, C#
+- 🔭 Y estoy con muchisimas ganas de trabajar con esto
+- 👾 Estoy realizando nuevos proyectos que pronto iré subiendo al repo
+- 
+- 🤔 Si te interesa mi perfil, no dudes en contactarme! 
+- 💬 Mis links de contacto están en la biografia! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
