@@ -7,8 +7,8 @@ Estudio tecnicatura Universitaria en Programación en la UTN, y además realizo 
 
 Siempre en constante aprendizaje. 
 ##
-- 🌱 Poseo conocimientos sobre HTML + CSS, Javascript, React, C#
-- 👾 Actualmente, además de estudiar, estoy realizando nuevos proyectos que pronto iré subiendo al repositorio
+- 🌱 Poseo conocimientos sobre HTML + CSS, Javascript, React, C#.
+- 👾 Actualmente, además de estudiar, estoy realizando nuevos proyectos que pronto iré subiendo al repositorio.
 - 😁 Mi gran objetivo es trabajar como desarrolladora, y estoy con muchisimas ganas de cumplirlo.
  
 ##
